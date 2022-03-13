@@ -178,9 +178,9 @@
 #define	FLYSKY_A7105_INO
 #define	HEIGHT_A7105_INO
 #define	HUBSAN_A7105_INO
-#define	JOYSWAY_A7105_INO
-#define	KYOSHO_A7105_INO
-#define	PELIKAN_A7105_INO
+// #define	JOYSWAY_A7105_INO
+// #define	KYOSHO_A7105_INO
+// #define	PELIKAN_A7105_INO
 #define	WFLY2_A7105_INO
 
 //The protocols below need a CYRF6936 to be installed
@@ -221,7 +221,7 @@
 #define	BAYANG_RX_NRF24L01_INO
 #define	BUGSMINI_NRF24L01_INO
 #define	CABELL_NRF24L01_INO
-//#define	CFLIE_NRF24L01_INO
+#define	CFLIE_NRF24L01_INO
 #define	CG023_NRF24L01_INO
 #define	CX10_NRF24L01_INO		//Include Q2X2 protocol
 #define	DM002_NRF24L01_INO
